@@ -1,5 +1,5 @@
 # Face-Swap
-Face swapping, Image morphing, Image warping, Face substitution.
+Face swapping, Image morphing, Image warping, Face substitution, Face replace.
 
 Face swap.
 1.Detect face.
