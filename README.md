@@ -4,7 +4,7 @@ Face swapping, Image morphing, Image warping, Face substitution, Face replace.
 Face swap.
 1.Detect face.
 2.Detect points on face.
-3.Triangulation.
+3.Face triangulation.
 4.Pise-wise affine warp.
 5.Poisson blending.
 6.Android or iOS integration.
