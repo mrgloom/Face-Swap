@@ -15,4 +15,6 @@ http://alumni.media.mit.edu/~maov/classes/comp_photo_vision08f/lect/07_Image%20M
 
 https://github.com/arturoc/FaceSubstitution
 https://github.com/jorticus/face-replace
+
+https://github.com/alyssaq/face_morpher
 ~~~
