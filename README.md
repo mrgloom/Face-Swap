@@ -19,4 +19,6 @@ https://github.com/jorticus/face-replace
 https://github.com/alyssaq/face_morpher
 
 https://github.com/royshil/HeadReplacement
+
+https://github.com/trishume/faceHack
 ~~~
