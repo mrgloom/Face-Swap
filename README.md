@@ -37,4 +37,6 @@ https://github.com/takiyu/CLM
 https://github.com/mc-jesus/FaceSwap
 
 https://matthewearl.github.io/2015/07/28/switching-eds-with-python/
+
+https://github.com/MarekKowalski/FaceSwap
 ~~~
