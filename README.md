@@ -41,4 +41,6 @@ https://matthewearl.github.io/2015/07/28/switching-eds-with-python/
 https://github.com/MarekKowalski/FaceSwap
 
 http://alumni.media.mit.edu/~roys/identitytransfer-cgaieee2012/
+
+https://github.com/HVisionSensing/FaceFlip
 ~~~
