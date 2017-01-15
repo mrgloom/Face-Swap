@@ -12,6 +12,8 @@ Face swap.
 ~~~
 
 ~~~
+http://life-in-a-monospace-typeface.tumblr.com/post/28495219189/quick-and-dirty-automatic-face-replacement-with
+
 Image Morphing - local (non-parametric) warp
 http://alumni.media.mit.edu/~maov/classes/comp_photo_vision08f/lect/07_Image%20Morphing.pdf
 
