@@ -45,4 +45,6 @@ https://github.com/MarekKowalski/FaceSwap
 http://alumni.media.mit.edu/~roys/identitytransfer-cgaieee2012/
 
 https://github.com/HVisionSensing/FaceFlip
+
+https://github.com/liaojing/Image-Morphing/tree/master/code
 ~~~
