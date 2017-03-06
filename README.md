@@ -51,4 +51,7 @@ https://github.com/liaojing/Image-Morphing/tree/master/code
 https://github.com/blendmaster/rigid-faces
 
 https://github.com/hrastnik/FaceSwap
+
+https://github.com/spmallick/learnopencv/tree/master/FaceMorph
+https://github.com/spmallick/learnopencv/tree/master/FaceSwap
 ~~~
