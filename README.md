@@ -55,3 +55,9 @@ https://github.com/hrastnik/FaceSwap
 https://github.com/spmallick/learnopencv/tree/master/FaceMorph
 https://github.com/spmallick/learnopencv/tree/master/FaceSwap
 ~~~
+
+Other
+~~~
+3D
+https://github.com/KeeganRen/FaceReconstruction
+~~~
