@@ -54,6 +54,8 @@ https://github.com/hrastnik/FaceSwap
 
 https://github.com/spmallick/learnopencv/tree/master/FaceMorph
 https://github.com/spmallick/learnopencv/tree/master/FaceSwap
+
+https://github.com/YuvalNirkin/face_swap
 ~~~
 
 Other
