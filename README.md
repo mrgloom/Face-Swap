@@ -61,4 +61,7 @@ Other
 3D
 https://github.com/KeeganRen/FaceReconstruction
 https://github.com/anhttran/3dmm_cnn
+
+Video:
+https://github.com/YuvalNirkin/face_video_segment
 ~~~
