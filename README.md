@@ -12,6 +12,8 @@ Face swap.
 ~~~
 
 ~~~
+https://github.com/alyssaq/face_morpher
+
 http://life-in-a-monospace-typeface.tumblr.com/post/28495219189/quick-and-dirty-automatic-face-replacement-with
 
 Image Morphing - local (non-parametric) warp
@@ -20,7 +22,7 @@ http://alumni.media.mit.edu/~maov/classes/comp_photo_vision08f/lect/07_Image%20M
 https://github.com/arturoc/FaceSubstitution
 https://github.com/jorticus/face-replace
 
-https://github.com/alyssaq/face_morpher
+https://github.com/t0nyren/piecewiseAffine
 
 https://github.com/royshil/HeadReplacement
 
