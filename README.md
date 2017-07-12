@@ -65,6 +65,7 @@ https://github.com/menpo/lsfm
 https://github.com/ddtm/deep-smile-warp
 https://github.com/msracver/Deep-Image-Analogy
 https://github.com/datitran/face2face-demo
+https://github.com/ZZUTK/Face-Aging-CAAE
 ~~~
 
 Beautyfication:
