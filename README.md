@@ -14,6 +14,8 @@ Face swap.
 ~~~
 https://github.com/alyssaq/face_morpher
 
+https://github.com/oflynned/Snapchat-Filter
+
 http://life-in-a-monospace-typeface.tumblr.com/post/28495219189/quick-and-dirty-automatic-face-replacement-with
 
 Image Morphing - local (non-parametric) warp
