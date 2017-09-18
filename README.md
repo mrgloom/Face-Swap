@@ -82,6 +82,7 @@ Other
 https://github.com/KeeganRen/FaceReconstruction
 https://github.com/anhttran/3dmm_cnn
 http://www.openu.ac.il/home/hassner/projects/poses/
+https://github.com/menpo/lsfm
 
 Video:
 https://github.com/YuvalNirkin/face_video_segment
