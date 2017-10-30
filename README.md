@@ -65,12 +65,6 @@ https://github.com/YuvalNirkin/face_swap
 
 https://github.com/menpo/lsfm
 
-#Deep learning
-https://github.com/ddtm/deep-smile-warp
-https://github.com/msracver/Deep-Image-Analogy
-https://github.com/datitran/face2face-demo
-https://github.com/ZZUTK/Face-Aging-CAAE
-https://github.com/zo7/deconvfaces
 ~~~
 
 Beautyfication:
@@ -88,4 +82,12 @@ https://github.com/menpo/lsfm
 
 Video:
 https://github.com/YuvalNirkin/face_video_segment
+
+#Deep learning
+https://github.com/ddtm/deep-smile-warp
+https://github.com/msracver/Deep-Image-Analogy
+https://github.com/datitran/face2face-demo
+https://github.com/ZZUTK/Face-Aging-CAAE
+https://github.com/zo7/deconvfaces
+https://github.com/tkarras/progressive_growing_of_gans
 ~~~
