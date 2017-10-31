@@ -90,4 +90,5 @@ https://github.com/datitran/face2face-demo
 https://github.com/ZZUTK/Face-Aging-CAAE
 https://github.com/zo7/deconvfaces
 https://github.com/tkarras/progressive_growing_of_gans
+http://www.openu.ac.il/home/hassner/projects/CNN3DMM/
 ~~~
