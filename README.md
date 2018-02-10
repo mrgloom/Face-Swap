@@ -85,6 +85,7 @@ https://github.com/YuvalNirkin/face_video_segment
 
 #Deep learning
 https://github.com/deepfakes/faceswap
+https://github.com/datitran/face2face-demo
 https://github.com/ddtm/deep-smile-warp
 https://github.com/msracver/Deep-Image-Analogy
 https://github.com/datitran/face2face-demo
