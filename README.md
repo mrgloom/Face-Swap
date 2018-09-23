@@ -51,8 +51,6 @@ https://github.com/hrastnik/FaceSwap
 https://github.com/spmallick/learnopencv/tree/master/FaceMorph
 https://github.com/spmallick/learnopencv/tree/master/FaceSwap
 
-https://github.com/YuvalNirkin/face_swap
-
 https://github.com/menpo/lsfm
 
 ~~~
@@ -76,6 +74,7 @@ https://github.com/YuvalNirkin/face_video_segment
 #Deep learning
 https://github.com/deepfakes/faceswap
 https://github.com/datitran/face2face-demo
+https://github.com/YuvalNirkin/face_swap
 https://github.com/ddtm/deep-smile-warp
 https://github.com/msracver/Deep-Image-Analogy
 https://github.com/datitran/face2face-demo
