@@ -4,6 +4,8 @@ Face swapping, Image morphing, Image warping, Face substitution, Face replace.
 ~~~
 https://github.com/alyssaq/face_morpher
 
+https://github.com/wuhuikai/FaceSwap
+
 https://github.com/oflynned/Snapchat-Filter
 
 http://life-in-a-monospace-typeface.tumblr.com/post/28495219189/quick-and-dirty-automatic-face-replacement-with
