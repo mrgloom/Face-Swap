@@ -64,6 +64,13 @@ https://github.com/Guikunzhi/BeautifyFaceDemo
 
 Other
 ~~~
+Image alignment
+https://github.com/cheind/image-align
+
+Papers:
+http://people.csail.mit.edu/sumner/research/deftransfer/Sumner2004DTF.pdf
+http://www-ui.is.s.u-tokyo.ac.jp/~takeo/papers/rigid.pdf
+
 3D
 https://github.com/KeeganRen/FaceReconstruction
 https://github.com/anhttran/3dmm_cnn
