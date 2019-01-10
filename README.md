@@ -55,6 +55,8 @@ https://github.com/spmallick/learnopencv/tree/master/FaceSwap
 
 https://github.com/menpo/lsfm
 
+https://github.com/DevendraPratapYadav/FaceMorphing
+
 ~~~
 
 Beautyfication:
