@@ -83,6 +83,7 @@ Video:
 https://github.com/YuvalNirkin/face_video_segment
 
 #Deep learning
+https://github.com/iperov/DeepFaceLab
 https://github.com/deepfakes/faceswap
 https://github.com/datitran/face2face-demo
 https://github.com/YuvalNirkin/face_swap
