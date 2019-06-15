@@ -96,4 +96,5 @@ https://github.com/tkarras/progressive_growing_of_gans
 http://www.openu.ac.il/home/hassner/projects/CNN3DMM/
 https://github.com/shaoanlu/faceswap-GAN
 https://github.com/quolc/neural-collage
+https://github.com/aerophile/awesome-deepfakes
 ~~~
