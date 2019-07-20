@@ -97,5 +97,5 @@ http://www.openu.ac.il/home/hassner/projects/CNN3DMM/
 https://github.com/shaoanlu/faceswap-GAN
 https://github.com/quolc/neural-collage
 https://github.com/aerophile/awesome-deepfakes
-https://github.com/YadiraF/PRNet/blob/master/demo_texture.py
+https://github.com/YadiraF/PRNet
 ~~~
