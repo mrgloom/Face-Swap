@@ -59,6 +59,11 @@ https://github.com/DevendraPratapYadav/FaceMorphing
 
 ~~~
 
+Morphing:
+~~~
+https://github.com/cxcxcxcx/imgwarp-opencv
+~~~
+
 Beautyfication:
 ~~~
 https://github.com/Guikunzhi/BeautifyFaceDemo
