@@ -104,3 +104,6 @@ https://github.com/quolc/neural-collage
 https://github.com/aerophile/awesome-deepfakes
 https://github.com/YadiraF/PRNet
 ~~~
+
+Mattting:
+https://github.com/pymatting/pymatting
