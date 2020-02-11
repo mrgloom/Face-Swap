@@ -105,5 +105,7 @@ https://github.com/aerophile/awesome-deepfakes
 https://github.com/YadiraF/PRNet
 ~~~
 
-Mattting:
+Matting:
+~~~
 https://github.com/pymatting/pymatting
+~~~
