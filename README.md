@@ -103,6 +103,7 @@ https://github.com/shaoanlu/faceswap-GAN
 https://github.com/quolc/neural-collage
 https://github.com/aerophile/awesome-deepfakes
 https://github.com/YadiraF/PRNet
+https://github.com/YuvalNirkin/face_segmentation
 ~~~
 
 Matting:
