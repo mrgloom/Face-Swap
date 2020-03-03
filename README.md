@@ -55,6 +55,8 @@ https://github.com/menpo/lsfm
 
 https://github.com/DevendraPratapYadav/FaceMorphing
 
+https://github.com/goberoi/faceit
+
 ~~~
 
 Morphing:
