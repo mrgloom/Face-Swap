@@ -85,6 +85,7 @@ https://github.com/anhttran/3dmm_cnn
 http://www.openu.ac.il/home/hassner/projects/poses/
 https://github.com/menpo/lsfm
 https://github.com/junyanz/FaceDemo
+https://github.com/jorticus/face-replace
 
 Video:
 https://github.com/YuvalNirkin/face_video_segment
