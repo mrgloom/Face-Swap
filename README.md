@@ -14,7 +14,6 @@ Image Morphing - local (non-parametric) warp
 http://alumni.media.mit.edu/~maov/classes/comp_photo_vision08f/lect/07_Image%20Morphing.pdf
 
 https://github.com/arturoc/FaceSubstitution
-https://github.com/jorticus/face-replace
 
 https://github.com/t0nyren/piecewiseAffine
 
