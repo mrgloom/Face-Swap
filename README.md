@@ -56,6 +56,8 @@ https://github.com/DevendraPratapYadav/FaceMorphing
 
 https://github.com/goberoi/faceit
 
+https://github.com/hay/facetool
+
 ~~~
 
 Morphing:
